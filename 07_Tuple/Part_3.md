@@ -1,6 +1,6 @@
----
-
 # 🌍 Real-World Project 1 – Student Record System
+
+---
 
 ## 📖 Problem Statement
 
@@ -263,7 +263,7 @@ Use a tuple when:
 - You want to prevent accidental updates.
 - You want to group related values together.
 
-For example:
+### Examples
 
 - Date of Birth
 - Passport Number
