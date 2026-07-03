@@ -1,5 +1,3 @@
----
-
 # 🔧 Common Tuple Methods in Python
 
 Unlike lists, tuples have only **two built-in methods** because tuples are **immutable** (their values cannot be changed).
